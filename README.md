@@ -1,2 +1,2 @@
 # Algorithm23Fall
-USTC algcs23~xuyun
+Labs of algcs23~xuyun USTC
